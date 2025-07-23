@@ -11,6 +11,7 @@ This is a simple and user-friendly Youtube Video/Audio downloader with a GUI to 
 ## System Requirements
 - OS (if you want to download directly, any version can be created by compiling the code on your machine to an executable): Windows (tested on Windows 10/11)
 - Python: 3.8+
+- FFmpeg: Required for audio conversion (must be in system PATH)
 
 ## Dependencies: 
 - See requirements.txt
