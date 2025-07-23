@@ -1,6 +1,8 @@
 # YouTube Downloader with GUI
 This is a simple and user-friendly Youtube Video/Audio downloader with a GUI to download YouTube videos as MP4 or extract audio as MP3 files with the help of yt-dlp command line interface
 
+![image alt](https://github.com/Skac44/YT-Downloader-with-UI/blob/436c0bfa6d865e5a196ef098029fe5081ba8db29/Screenshot.png)
+
 ## Features
 - Download audio only (MP3 format)
 - Download video + audio (MP4 format)
